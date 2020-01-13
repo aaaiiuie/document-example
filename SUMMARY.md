@@ -35,5 +35,5 @@
 	* [6.6.システム中立性](./6_NonFunctionalRequirement/6-6_Neutrality.md)
 	* [6.7.移行性](./6_NonFunctionalRequirement/6-7_Portability.md)
 * [7.運用保守](./7_OperationAndMaintenance_README.md)
-	* [7.1.障害時の対応](./7_OperationAndMaintenance/7-1_Incident.md)
+	* [7.1.運用保守の項目](./7_OperationAndMaintenance/7-1_Item.md)
 	* [7.2.追加機能開発](./7_OperationAndMaintenance/7-2_FunctionDevelopment.md)
