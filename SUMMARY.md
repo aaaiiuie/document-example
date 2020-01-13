@@ -23,7 +23,7 @@
 * [4.業務フロー](./4_OperationFlow_README.md)
 	* [4.1.ステークホルダー](./4_OperationFlow/4-1_Stakeholder.md)
 	* [4.n.●●業務と●●業務に関するワークフロー1](./4_OperationFlow/4-n_example-1.md)
-	* [4.n.●●業務と●●業務に関するワークフロー2](./4_OperationFlow/4-n_example-n.md)
+	* [4.n.●●業務と●●業務に関するワークフロー2](./4_OperationFlow/4-n_example-2.md)
 * [5.機能要件一覧](./5_FunctionRequirement_README.md)
 	* [5.n.example-1](./5_FunctionRequirement/5-n_example-1.md)
 * [6.非機能要件一覧(非機能要件項目)](./6_NonFunctionalRequirement_README.md)
